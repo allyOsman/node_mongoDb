@@ -120,4 +120,4 @@ Content-Type: application/json
 
 **Ally A. Ngonyani**  
 📧 ally.a.ngonyany36@gmail.com
-💻 [Your GitHub Profile]
+💻 (https://github.com/allyosman)
